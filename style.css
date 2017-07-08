@@ -10,6 +10,8 @@ body {
 	background: -o-linear-gradient(bottom right, #cceeff, #0088cc); 
 	background: -moz-linear-gradient(bottom right, #cceeff, #0088cc); 
 	background: linear-gradient(to bottom right, #cceeff, #0088cc);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 .container {
